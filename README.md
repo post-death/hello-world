@@ -1,2 +1,2 @@
 # hello-world
-Learning the basics
+getting through the basics
